@@ -63,4 +63,4 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 Authors
 Omondi Jeff
-Mercy Nyong
+Nyong Mercy
